@@ -1,0 +1,28 @@
+body {
+  background-color: #414141;
+  color: #ff0000;
+}
+hr {
+  border-style: dotted none none;
+  border-width: 10px;
+  border-color: #252525;
+  width: 10%;
+}
+h1{
+  color: #af0404;
+}
+h3{
+  color: #af0404;
+}
+a:link{
+  color: white;
+}
+a:visited{
+  color: #af0404;
+}
+input{
+  background-color: #9c9c9c;
+}
+textarea{
+  background-color: #9c9c9c;
+}
